@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Un moteur de recherche interne efficace : un élément indispensable pour améliorer son taux de conversion.</title>
+    <link>https://www.prestashop.com/fr/blog/ameliorer-taux-de-conversion</link>
+    <description>Chaque recherche depuis le moteur de recherche interne d’un site internet doit fournir à l’internaute un résultat ou lui offrir une alternative.</description>
+     <pubDate>Mon, 06 Aug 2018 00:00:00 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ameliorer-taux-de-conversion</guid>
+  </item>
+  <item>
+    <title>Pourquoi connecter ERP et solution e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/pourquoi-connecter-erp-et-solution-e-commerce</link>
+    <description>Qu’il s’agisse d’un premier site ou d’une refonte, l’une des problématiques centrales rencontrée par les sites e-commerce reste la </description>
+     <pubDate>Thu, 26 Jul 2018 10:03:07 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/pourquoi-connecter-erp-et-solution-e-commerce</guid>
+  </item>
+  <item>
+    <title>Comment contribuer au projet PrestaShop ? </title>
+    <link>https://www.prestashop.com/fr/blog/comment-contribuer-au-projet-prestashop</link>
+    <description>Comme l&#039;indique le titre de cet article, nous vous avons préparé un guide contenant toutes les informations dont vous avez besoin pour contribuer au projet PrestaShop.</description>
+     <pubDate>Mon, 23 Jul 2018 11:20:08 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/comment-contribuer-au-projet-prestashop</guid>
+  </item>
+  <item>
+    <title>Rencontrez Edouard et Cyril, nos Ambassadeurs du mois | Juillet 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeurs-cyril-edouard-paris</link>
+    <description>A propos de vous
+Trois mots pour mieux vous décrire :
+Edouard : “dithyrambique”. C’est mon nom sur Instagram :) et c’est un état d’esprit ! @dithyrambique</description>
+     <pubDate>Thu, 19 Jul 2018 15:23:38 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeurs-cyril-edouard-paris</guid>
+  </item>
+  <item>
+    <title>Offre emploi Développeur Web</title>
+    <link>https://www.prestashop.com/fr/blog/offre-emploi-developpeur-web</link>
+    <description>La société</description>
+     <pubDate>Tue, 17 Jul 2018 15:32:01 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/offre-emploi-developpeur-web</guid>
+  </item>
+  <item>
+    <title>eBay a lancé son système d’annonces par produits en mai 2018 - Votre solution de référencement produit est-elle adaptée à cette évolution ?</title>
+    <link>https://www.prestashop.com/fr/blog/ebay-systeme-dannonces-produits</link>
+    <description>En quoi consiste la nouvelle expérience de shopping par produits lancée par eBay ?</description>
+     <pubDate>Wed, 11 Jul 2018 16:23:05 +0200</pubDate>
+ <dc:creator>magnalister</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ebay-systeme-dannonces-produits</guid>
+  </item>
+  <item>
+    <title>Venez nous voir à Paris Retail Week le 10-11 et 12 septembre 2018</title>
+    <link>https://www.prestashop.com/fr/blog/venez-nous-voir-a-paris-retail-week-10-11-12-septembre-2018-1</link>
+    <description> </description>
+     <pubDate>Tue, 10 Jul 2018 14:44:56 +0200</pubDate>
+ <dc:creator>Antoine Durantet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/venez-nous-voir-a-paris-retail-week-10-11-12-septembre-2018-1</guid>
+  </item>
+  <item>
+    <title>Prêt pour la prochaine étape ? Développez votre activité à l&amp;#039;étranger</title>
+    <link>https://www.prestashop.com/fr/blog/pret-pour-la-prochaine-etape-developpez-votre-activite-a-letranger</link>
+    <description>En Europe, l&#039;e-commerce international augmente de 30 % par an et représentera 130 milliards d&#039;euros d&#039;ici 2020 (1).</description>
+     <pubDate>Wed, 04 Jul 2018 11:10:00 +0200</pubDate>
+ <dc:creator>paypal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/pret-pour-la-prochaine-etape-developpez-votre-activite-a-letranger</guid>
+  </item>
+  <item>
+    <title>Rencontrez Roberto, notre Ambassadeur du mois | Juin 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeur-roberto-catane</link>
+    <description>A propos de toi
+Trois mots pour mieux te décrire :
+Calme, ambitieux, déterminé.</description>
+     <pubDate>Mon, 02 Jul 2018 00:00:00 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeur-roberto-catane</guid>
+  </item>
+  <item>
+    <title>Notre module de certification arrive très bientôt ! </title>
+    <link>https://www.prestashop.com/fr/blog/module-de-certification-article88</link>
+    <description>Excellente nouvelle en ce début de mois de juillet : après plusieurs mois d’attente et un audit survenu à la fin du mois de juin, PrestaShop est officiellement certifié</description>
+     <pubDate>Sun, 01 Jul 2018 18:09:52 +0200</pubDate>
+ <dc:creator>article88@prestashop.com</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/module-de-certification-article88</guid>
+  </item>
+  </channel>
+</rss>
